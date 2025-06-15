@@ -24,27 +24,25 @@ A **Streamlit-based web application** that predicts the likelihood of multiple d
 
 ---
 
-## 🛠️ Installation
-
-### 1. Clone the repository
-```bash
+## 🧪 Installation
+## 1. Clone the repository
+bash
+Copy
+Edit
 git clone https://github.com/vineesha35/MultiDx.git
 cd MultiDx
-
-### 2. Create a virtual environment (optional)
+## 2. Create a virtual environment (optional)
 bash
 Copy
 Edit
 python -m venv venv
-source venv/bin/activate
-
-### 3. Install dependencies
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+## 3. Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-
-### 4. Run the Streamlit app
+## 4. Run the Streamlit app
 bash
 Copy
 Edit
