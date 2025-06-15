@@ -1,45 +1,50 @@
-# MultiDx
-A Streamlit-based web application that predicts the likelihood of multiple diseases (Diabetes, Heart Disease, and Parkinson’s) using trained machine learning models
+# 🩺 MultiDx
 
+A **Streamlit-based web application** that predicts the likelihood of multiple diseases (Diabetes, Heart Disease, and Parkinson’s) using trained machine learning models.
 
-📌 Features
-🔍 Predict Diabetes, Heart Disease, and Parkinson’s Disease
-🧠 Uses machine learning models trained with real-world data
-🧾 Simple web UI built with Streamlit
-📈 Fast and interactive predictions
-📦 Easily deployable on Streamlit Cloud
+---
 
+## 📌 Features
 
-🧠 Technologies Used
-Python
-Streamlit
-scikit-learn
-Pandas
-NumPy
+- 🔍 Predict **Diabetes**, **Heart Disease**, and **Parkinson’s Disease**
+- 🧠 Uses machine learning models trained with real-world data
+- 🧾 Simple web UI built with **Streamlit**
+- 📈 Fast and interactive predictions
+- 📦 Easily deployable on **Streamlit Cloud**
 
-🛠️ Installation
-Clone the repository
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/multi-disease-predictor.git
-cd multi-disease-predictor
-Create virtual environment (optional)
+## 🧠 Technologies Used
 
+- Python  
+- Streamlit  
+- scikit-learn  
+- Pandas  
+- NumPy  
+
+---
+
+## 🛠️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/vineesha35/MultiDx.git
+cd MultiDx
+
+### 2. Create a virtual environment (optional)
 bash
 Copy
 Edit
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies
+source venv/bin/activate
 
+### 3. Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-Run the Streamlit app
 
+### 4. Run the Streamlit app
 bash
 Copy
 Edit
