@@ -1,25 +1,20 @@
 # MultiDx
 A Streamlit-based web application that predicts the likelihood of multiple diseases (Diabetes, Heart Disease, and Parkinson’s) using trained machine learning models
+
+
 📌 Features
 🔍 Predict Diabetes, Heart Disease, and Parkinson’s Disease
-
 🧠 Uses machine learning models trained with real-world data
-
 🧾 Simple web UI built with Streamlit
-
 📈 Fast and interactive predictions
-
 📦 Easily deployable on Streamlit Cloud
+
 
 🧠 Technologies Used
 Python
-
 Streamlit
-
 scikit-learn
-
 Pandas
-
 NumPy
 
 🛠️ Installation
